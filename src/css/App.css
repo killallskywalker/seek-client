@@ -1,0 +1,22 @@
+.AppMain {
+  background-color: #282c34;
+  min-height: 100vh;
+  color: white;
+}
+
+.AppLink {
+  color: #2812f3b6;
+} 
+
+.AppPosition {
+  margin-Top: "15px";
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
